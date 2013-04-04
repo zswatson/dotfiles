@@ -1,3 +1,9 @@
+set nowrap nocompatible
+filetype plugin indent on
+syntax enable
+set nu display=lastline,uhex
+set bs=eol,start,indent
+
 " Autoindent
 set autoindent
 
